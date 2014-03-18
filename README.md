@@ -1,3 +1,11 @@
+## This is a Fork
+
+This is a fork of [callmeal/Flickr4Java](https://github.com/callmeal/Flickr4Java).
+I do not maintain this project. Any concerns should be directed to the upstream
+project.
+
+The upstream project's README is reproduced below.
+
 ## Flickr4Java
 
 ### Introduction
