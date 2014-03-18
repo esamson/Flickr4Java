@@ -10,7 +10,7 @@
     
     <groupId>ph.samson.flickr4java</groupId>
     <artifactId>flickr</artifactId>
-    <version>2.6-SNAPSHOT</version>
+    <version>2.5.1</version>
     <packaging>jar</packaging>
     <name>flickr4java</name>
 
@@ -66,6 +66,6 @@
         <connection>scm:git:https://github.com/esamson/Flickr4Java.git</connection>
         <developerConnection>scm:git:git@github.com:esamson/Flickr4Java.git</developerConnection>
         <url>https://github.com/esamson/Flickr4Java</url>
-        <tag>HEAD</tag>
+        <tag>flickr-2.5.1</tag>
     </scm>
 </project>
